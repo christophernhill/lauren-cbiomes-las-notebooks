@@ -1,0 +1,14 @@
+name: py37
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - pandas
+  - numpy
+  - vtk
+  - matplotlib
+  - ipykernel
+  - intake
+  - intake-xarray
+  - pydap
+prefix: /Users/chrishill/projects/myconda37/conda3/envs/py37

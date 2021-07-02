@@ -1,0 +1,22 @@
+sources:
+  darwin_v0_2_cs510:
+    args:
+      path: /Users/Lauren/Documents/eaps/intake-example/catalog/darwin_v0.2_cs510.yml
+    description: ''
+    driver: intake.catalog.local.YAMLFileCatalog
+    metadata: {}
+    direct_access: allow
+  Darwin_v0_1_llc90:
+    args:
+      path: /Users/Lauren/Documents/eaps/intake-example/catalog/Darwin_v0.1_llc90.yml
+    description: ''
+    driver: intake.catalog.local.YAMLFileCatalog
+    metadata: {}
+    direct_access: allow
+#  LLC4320_NorthPacific:
+#    args:
+#      path: LLC4320_NorthPacific.yml
+#    description: ''
+#    driver: intake.catalog.local.YAMLFileCatalog
+#    metadata: {}
+#    direct_access: allow
